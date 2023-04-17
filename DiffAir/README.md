@@ -19,8 +19,8 @@ on en deduis qu'une vu hexa pourrais aider
 
 hexdump et xxd sont les 2 soft que je connais pour faire du dump hexa de fichier sans me prendre la tête donc 
 ```
-kawaegle@~/Midnight_BlackBox/steganography/DiffAir:❯❯❯diff airPort.jpg > airPort.hex 
-kawaegle@~/Midnight_BlackBox/steganography/DiffAir:❯❯❯diff Airport.jpg > Airport.hex 
+kawaegle@~/Midnight_BlackBox/steganography/DiffAir:❯❯❯xxd airPort.jpg > airPort.hex 
+kawaegle@~/Midnight_BlackBox/steganography/DiffAir:❯❯❯xxd Airport.jpg > Airport.hex 
 ```
 
 et finalement on utilise diff sur les deux fichier hexa
