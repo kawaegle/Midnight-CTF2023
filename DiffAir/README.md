@@ -1,4 +1,4 @@
-#Stéganographie
+# Stéganographie
 # Diff'air
 j'ai oublié de reccup le sujet oupsi
 
